@@ -1,11 +1,11 @@
 import { useState } from 'react';
 import {
-    SafeAreaView,
-    ScrollView,
-    StyleSheet,
-    Text,
-    TouchableOpacity,
-    View,
+  SafeAreaView,
+  ScrollView,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
 } from 'react-native';
 
 import ActivityIndicatorExample from './ActivityIndicator';
@@ -14,14 +14,16 @@ import FlatListExample from './FlatList';
 import ImageExample from './Image';
 import ImageBackgroundExample from './ImageBackground';
 import KeyboardAvoidingViewExample from './KeyboardAvoidingView';
+import ModalExample from './Modal';
 
-const ComponentList = {
+const ComponentList = { 
   ActivityIndicator: ActivityIndicatorExample,
   Button: ButtonExample,
   FlatList: FlatListExample,
   Image: ImageExample,
   ImageBackground: ImageBackgroundExample,
   KeyboardAvoidingView: KeyboardAvoidingViewExample,
+  Modal: ModalExample,
 };
 
 const App = () => {
