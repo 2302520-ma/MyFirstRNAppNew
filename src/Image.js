@@ -21,13 +21,13 @@ const styles = StyleSheet.create({
                 <Image
                     style={styles.tinyLogo}
                     source={{
-                        uri: 'https://reactnative.dev/img/tiny_logo.png',
+                        uri: 'https://t4.ftcdn.net/jpg/05/27/02/73/360_F_527027324_6NfPWu1FrTgxkRB6zpw7NK9WnqhFK1cY.jpg',
                     }}
                 />
                 <Image
                     style={styles.logo}
                     source={{
-                        uri: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAYAAAA6oTAqAAAAEXRFWHRTb2Z0d2FyZQBwbmdjcnVzaEB1SfMAAABQSURBVGje7dSxCQBACARB+2/ab8BEeQNhFi6WSYzYLYudDQYGBgYGBgYGBgYGBgYGBgZmcvDqYGBgmhivGQYGBgYGBgYGBgYGBgYGBgbmQw+P/eMrC5UTVAAAAABJRU5ErkJggg==',
+                        uri: 'https://images.fineartamerica.com/images-medium-large-5/blue-butterfly-square-carol-groenen.jpg',
                     }}
                 />
             </SafeAreaView>
